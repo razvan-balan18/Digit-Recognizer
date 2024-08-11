@@ -1,4 +1,4 @@
-# Digit-Recognizer
+# Digit-Recognizer in Pythin using numpy and ML
 
 
 Handwritten digit recognizer using a simple neural network.
